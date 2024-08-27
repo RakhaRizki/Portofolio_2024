@@ -102,6 +102,14 @@ export const projects = [
     iconLists: ["/laravel.svg", "/tail.svg", "/mysql.svg"],
     link: "https://github.com/RakhaRizki/TokoOnline-Laravel",
   },
+  {
+    id: 5,
+    title: "Vespa-App",
+    des: "This is the LandingPages website I created using native HTML,vanilla CSS and JS, showcasing about vespa.",
+    img: "/p5.png",
+    iconLists:  ["/html.svg","/bootstrap.svg","/javascript.svg"],
+    link: "https://github.com/RakhaRizki/TokoOnline-Laravel",
+  },
 ];
 
 export const testimonials = [
