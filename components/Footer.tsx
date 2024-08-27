@@ -5,17 +5,17 @@ import MagicButton from './ui/MagicButton'
 
 const Footer = () => {
   return (
-    <footer className="w-full pb-10 mb-[100px]" id="contact">
+    <footer className="w-full pb-10" id="contact">
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
           Ready to Collaborate <span className="text-purple">and</span> Elevate Your Digital Presence Together?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-         Contact me today, and let&apos;s discuss how we can achieve your goals together.
+         Contact me, and let&apos;s discuss how we can achieve your goals together.
         </p>
         <a href="https://www.instagram.com/rakharizki_/">
           <MagicButton
-            title="Mutualan Yuk"
+            title="Pencet aku"
             icon={<FaLocationArrow />}
             position="right"
           />

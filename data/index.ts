@@ -20,7 +20,7 @@ export const gridItems = [
     id: 2,
     title: "",
     description: "",
-    className: "text-center lg:col-span-2 md:col-span-3 md:row-span-2",
+    className: "text-center mb-5 lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-start",
     img: "",

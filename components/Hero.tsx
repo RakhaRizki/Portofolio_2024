@@ -20,7 +20,7 @@ export const Hero = () => {
     <div className='max-w-[89vw] md:max-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center'>
     
         <TextGenerateEffect
-        className='text-center text-[40px] md:text-5xl lg:text-6xl'
+        className='text-center pt-5 text-[40px] md:text-5xl lg:text-6xl'
         words='Passionate Front-End Developer Specializing in Building Beautiful, User-Centric Interfaces'
         />
 
